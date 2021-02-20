@@ -1,0 +1,98 @@
+.div1{
+    
+    background-color: white;
+}
+.mover{
+    color: black;
+    padding: 6px;
+}
+.mover:hover{
+    color:rgb(216, 211, 211);
+    text-decoration: none;
+}
+.imglogo{
+    width:  150px;
+}
+
+.divicons{
+    background-color:  #32414F;
+   width:  40%;
+    border-radius: 20px;
+    
+}
+.h5icons{
+    color: white;
+    font-family:'Comfortaa', cursive ;
+}
+.areacarrosel{
+    background-color:white ;
+    width: 800px;
+    height: 300px;
+}
+.areaimagens{
+   
+    width: 100%; 
+    background-color:#32414F ; 
+}
+html,body { overflow-x: hidden; }
+.banner{
+    border-radius: 15px;
+}
+
+.areaModelos{
+    width: 300px;
+     background-color:white; 
+     border-radius: 7px;
+ }
+ .H3mengo{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: black;
+}
+
+.areadepoimentos{
+    border-radius: 7px;
+    background-color: white;
+    width: 400px;
+
+}
+.icon_depoimentos{
+    width: 45px;
+  
+    border-radius: 25px;
+  
+
+}
+
+
+.areaPerguntas{
+    border-radius: 8px;
+    background-color: white;
+    
+}
+
+.button1{
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    text-align: center;
+    border-radius: 7px;
+    color: #32414F;
+    text-decoration: none;
+  
+    font-size: 18px;
+}
+    .button1:hover{
+        text-decoration: none;
+        color: white;
+        background-color: #32414F;
+        box-shadow: 10px 5px 5px rgba(255, 255, 255, 0.719);
+    }
+    .azin{
+        color: white;
+        font-family:'Comfortaa', cursive ;
+    }
+  .azin:hover{
+      text-decoration: none;
+      color: black;
+  }
